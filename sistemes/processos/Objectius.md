@@ -9,6 +9,6 @@ Assegurar una **distribució equitativa de recursos** és essencial. Això inclo
 ## 4. Coordinació
 La **coordinació** entre processos és crucial per evitar conflictes i assegurar que les operacions crítiques es realitzin de manera ordenada i coherent. La sincronització entre processos és essencial per mantenir la consistència del sistema.
 
-Cada un d'aquests objectius contribueix a la creació d'un entorn de processos eficient i dinàmic, permetent que el sistema operatiu gestioni les diverses tasques de manera òptima. Aprofundir en aquests aspectes és fonamental per als professionals de la informàtica i contribueix al desenvolupament de sistemes robustos i eficients.
+Cada un d'aquests objectius contribueix a la creació d'un entorn de processos eficient i dinàmic, permetent que el sistema operatiu gestioni les diverses tasques de manera òptima. Aprofundir en aquests aspectes és fonamental per als professionals de la informàtica i contribueix al desenvolupament de sistemes robustos i eficients.  
 [Anterior pàgina](Introduccio.md)  
 [Seguent pàgina](Components.md)

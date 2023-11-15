@@ -22,6 +22,6 @@ La **planificació de CPU** implica determinar quin procés s'executarà següen
 ## Sincronització i Comunicació
 La **sincronització i comunicació** són essencials per coordinar l'execució de processos i evitar problemes com ara condicions de carrera. La sincronització assegura l'ordre adequat d'operacions, mentre que la comunicació facilita l'intercanvi d'informació entre processos.
 
-Aprofundir en aquests components proporciona una visió completa de com els sistemes operatius gestionen els processos, assegurant un funcionament eficient i coordinat.
+Aprofundir en aquests components proporciona una visió completa de com els sistemes operatius gestionen els processos, assegurant un funcionament eficient i coordinat.  
 [Anterior pàgina](Objectius.md)  
 [Seguent pàgina](Conclussio.md)
