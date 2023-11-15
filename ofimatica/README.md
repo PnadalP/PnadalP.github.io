@@ -1,3 +1,3 @@
 # Ofimàtica
-[Aplicacións ofimàtiques](ofimatica/aplicacions_ofimatiques/README.md)  
-[Bases de dades](ofimatica/bases_de_dades/README.md)
+[Aplicacións ofimàtiques](aplicacions_ofimatiques/README.md)  
+[Bases de dades](bases_de_dades/README.md)

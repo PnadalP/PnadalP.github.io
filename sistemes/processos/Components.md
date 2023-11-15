@@ -9,7 +9,7 @@ Els processos passen per diferents estats al llarg del seu cicle de vida, i la g
 5. **Finalitzat:** El procés ha completat la seva execució i ha finalitzat.
 La gestió efectiva entre aquests estats implica transicions adequades i optimitzades, assegurant que els processos es mouen entre ells de manera eficient per mantenir un sistema dinàmic i actiu.
 
-![Estats del procés](/sistemes/processos/Imatges/Estat_dels_processos.png)
+![Estats del procés](Imatges/Estat_dels_processos.png)
 
 ## Gestió de Memòria
 La **gestió de memòria** és un altre component crític de la gestió de processos, ja que implica l'assignació i alliberament d'espai de memòria per als processos. Alguns conceptes clau inclouen:
@@ -23,5 +23,5 @@ La **planificació de CPU** implica determinar quin procés s'executarà següen
 La **sincronització i comunicació** són essencials per coordinar l'execució de processos i evitar problemes com ara condicions de carrera. La sincronització assegura l'ordre adequat d'operacions, mentre que la comunicació facilita l'intercanvi d'informació entre processos.
 
 Aprofundir en aquests components proporciona una visió completa de com els sistemes operatius gestionen els processos, assegurant un funcionament eficient i coordinat.
-[Anterior pàgina](/sistemes/processos/Objectius.md)</br>
-[Seguent pàgina](/sistemes/processos/Conclussio.md)
+[Anterior pàgina](Objectius.md)  
+[Seguent pàgina](Conclussio.md)

@@ -1,2 +1,2 @@
 # Xarxes locals
-[Tasca1.1](xarxes/Tasca 1.1.pdf)
+[Tasca1.1](Tasca1.1.pdf)

@@ -1,5 +1,5 @@
 # Apunts de processos
-[Primera pàgina](sistemes/processos/Introduccio.md)  
-[Segona pàgina](sistemes/processos/Objectius.md)  
-[Tercera pàgina](sistemes/processos/Components.md)  
-[Darrera pàgina](sistemes/processos/Conclussio.md)
+[Primera pàgina](Introduccio.md)  
+[Segona pàgina](Objectius.md)  
+[Tercera pàgina](Components.md)  
+[Darrera pàgina](Conclussio.md)
